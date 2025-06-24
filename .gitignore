@@ -1,0 +1,55 @@
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# Virtual-env folders
+.env/
+.venv/
+venv/
+
+############################
+# C++ / MSVC / Visual Studio
+############################
+# Object and debug files
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.cache
+*.log
+*.VC.db
+*.ipch
+
+# Build output folders
+x64/
+x86/
+build/
+Debug*/
+Release*/
+
+# Solution-specific caches
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.unsuccessfulbuild
+*.VC.VC.opendb
+
+############################
+# IDE / Editor metadata
+############################
+.vscode/
+.idea/
+.vs/
+
+############################
+# Operating-system cruft
+############################
+.DS_Store
+Thumbs.db
