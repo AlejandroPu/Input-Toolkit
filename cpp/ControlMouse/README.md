@@ -1,7 +1,13 @@
 ### ControlMouse (C++ / Win32)
 
-PoC que intercepta eventos de mouse a bajo nivel.
-* Abrir `ControlMouse.sln` en Visual Studio 2022 y F5.
-* Próximamente: guía CMake y GIF demo.
+Low-level mouse-remapping prototype written in C++ after the Python
+version caused noticeable lag on my laptop.  
+It was meant to complement my **Startup School** project but was **not
+included in the final deliverable**.
 
-Parte del código fue prototipado con ChatGPT; refactor propio.
+#### Build & Run
+* Open `ControlMouse.sln` in Visual Studio 2022 and press **F5**.
+
+#### Authorship
+This prototype was generated in iterative pair-programming sessions with ChatGPT;
+it is my first C++ code since around 1998.
