@@ -2,6 +2,8 @@
 
 Small proof-of-concepts I built while developing my graduation project
 through my university’s **Startup School** path.
+Nothing here was part of my final deliverable or degree defense.
+Only a few commands stored in docs/ were actually used to connect the Raspberry Pi.
 
 | Folder | Prototype | Purpose |
 |--------|-----------|---------|
