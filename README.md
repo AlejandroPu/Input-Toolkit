@@ -9,7 +9,7 @@ Only a few commands stored in docs/ were actually used to connect the Raspberry 
 |--------|-----------|---------|
 | `python/MouseRemapper` | Scroll-wheel → cursor movement (Python) | Quick latency test; later replaced by a C++ version |
 | `cpp/ControlMouse`    | Low-level mouse remap (C++/Win32) | Faster alternative to the Python script |
-| `docs/`               | `RPi_WiFiDirect_raw.txt` + notes | Logbook of Wi-Fi Direct commands and FFmpeg streaming trials between two Raspberry Pi boards |
+| `docs/`               | `RPi_WiFiDirect_raw.txt` + notes | Logbook of access-point (AP) setup commands and FFmpeg streaming trials between two Raspberry Pi boards |
 
 Part of the code was created in iterative pair-programming sessions with **ChatGPT**;  
 I kept the raw notes and prototypes as historical reference.
